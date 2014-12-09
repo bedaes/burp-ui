@@ -1,8 +1,8 @@
 Build Status
 ------------
 
-.. image:: http://ci.ziirish.me/projects/1/status.png?ref=master
-    :target: http://ci.ziirish.me/projects/1?ref=master
+.. image:: http://ci.ziirish.me/projects/1/status.png?ref=0.0.5
+    :target: http://ci.ziirish.me/projects/1?ref=0.0.5
 
 Requirements
 ------------
